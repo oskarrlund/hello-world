@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+I'm working at Bouvet and learning Git.
+Thanks :)
